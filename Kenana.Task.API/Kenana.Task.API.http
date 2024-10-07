@@ -1,0 +1,6 @@
+@Kenana.Task.API_HostAddress = http://localhost:5083
+
+GET {{Kenana.Task.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
